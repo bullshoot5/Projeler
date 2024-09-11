@@ -3,7 +3,5 @@
 <h2>Ekran görüntüsü</h2>
 
 ![](udemig.gif)
-# Projeler
-# Projeler
-# Udemig-Pro
-# Udemig-Pro
+
+# Udemig-okul
